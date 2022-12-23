@@ -7,6 +7,6 @@
   "tags": "",
   "storage": [
     {"name":"BangleGoPlus.app.js","url":"app.js"},
-    {"name":"BangleGoPlus.ing","url":"app-icon.js","evaluate":true}
+    {"name":"BangleGoPlus.img","url":"app-icon.js","evaluate":true}
   ]
 }
