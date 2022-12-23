@@ -1,7 +1,7 @@
 { "id": "BangleGoPlus",
   "name": "Bangle Go Plus",
   "shortName":"Go Plus",
-  "icon": "BangleGoPlus.png",
+  "icon": "bgpicon.png",
   "version":"0.01",
   "description": "Pokemon Go Plus on your BangleJS 2",
   "tags": "",
