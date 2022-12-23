@@ -6,7 +6,7 @@
   "description": "Pokemon Go Plus on your BangleJS 2",
   "tags": "",
   "storage": [
-    {"name":"banglegoplus.app.js","url":"app.js"},
-    {"name":"banglegoplus.img","url":"app-icon.js","evaluate":true}
+    {"name":"BangleGoPlus.app.js","url":"app.js"},
+    {"name":"BangleGoPlus.img","url":"app-icon.js","evaluate":true}
   ]
 }
