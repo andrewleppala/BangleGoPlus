@@ -1,12 +1,12 @@
-#Bangle Go Plus
+# Bangle Go Plus
 
 A Pokemon Go Plus replacement that runs on your Bangle.js watch.
 Requires an Android device, a real Pokemon Go Plus, some time, and some simple instruction following.
 This is NOT a free Pokemon Go Plus. You will have to provide your own Key, Blob, and MAC Address, of which instructions can be found [here.](https://github.com/Jesus805/Suota-Go-Plus)
 
-#To Do
+# To Do
 
-Program:
+## Program:
 
 > Store current mac address to file
 
@@ -40,7 +40,7 @@ Program:
 
 > safe exit button (to restore factory mac before quitting)
 
-Document:
+## Document:
 
 > instructions how to pull necessary info (mac, blob, key, etc) from Pokemon Go Plus hardware
 
@@ -49,7 +49,7 @@ Document:
 > video tutorial?
 
 
-Extra/Bonus:
+## Extra/Bonus:
 
 > Buy original Pokemon Go Plus, film key extraction for video tutorial on entire process
 
