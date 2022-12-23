@@ -6,6 +6,7 @@
   "description": "Pokemon Go Plus on your BangleJS 2",
   "tags": "",
   "supports" : ["BANGLEJS2"],
+  "readme": "README.md",
   "storage": [
     {"name":"BangleGoPlus.app.js","url":"app.js"},
     {"name":"BangleGoPlus.img","url":"app-icon.js","evaluate":true}
